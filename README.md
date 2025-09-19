@@ -14,6 +14,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="160" src="https://i.pinimg.com/1200x/04/3c/c7/043cc74e58d17f6715746baecddc99d3.jpg"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Al3ss1Am0d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Al3ss1Am0d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -34,7 +42,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Al3ss1Am0d">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Al3ss1Am0d&count=5" alt="Spotify recently played"  />
+    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=Al3ss1Am0d&count=5](https://spotify-recently-played-readme.vercel.app/api?user=316lglajwzcdq7b25vtxousxt2jm&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 

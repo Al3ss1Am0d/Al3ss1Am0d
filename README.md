@@ -48,12 +48,6 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316lglajwzcdq7b25vtxousxt2jm" alt="Spotify recently played" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
